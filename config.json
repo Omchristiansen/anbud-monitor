@@ -1,0 +1,50 @@
+{
+  "api": {
+    "base_url": "https://api.doffin.no/public/v2",
+    "search_path": "/search",
+    "status": "ACTIVE",
+    "per_page": 50,
+    "max_pages": 5,
+    "delay_seconds": 1.0,
+    "params": {
+      "query": "searchString",
+      "cpv": "cpvCode",
+      "status": "status",
+      "page": "page",
+      "per_page": "numHitsPerPage"
+    }
+  },
+
+  "include_types": [],
+  "search_secondary": false,
+
+  "cpv_core": [
+    "22462000", "39294100", "18530000", "22459100",
+    "44423400", "44423450", "34928470", "34992000",
+    "18100000", "18110000", "18130000", "18200000", "18222000",
+    "18331000", "18332000", "18333000", "18440000",
+    "39154100", "39154000", "35821000",
+    "79822500", "79340000", "79800000", "79810000"
+  ],
+
+  "cpv_secondary": [
+    "22000000", "18930000", "18931100", "39221150", "39225710",
+    "39295200", "39226220", "30192121", "30237220", "30199730",
+    "18143000", "79952000", "79956000", "18400000", "18420000", "18443340"
+  ],
+
+  "keywords": [
+    "profilklær", "arbeidstøy", "arbeidsklær", "uniform", "bedriftsklær",
+    "firmagave", "giveaway", "profilartikler", "profilprodukter",
+    "reklameartikler", "gaveartikler", "merchandise", "profilering",
+    "skilt", "skilting", "fasadeskilt", "lysskilt", "pylon", "wayfinding",
+    "veivisning", "informasjonsskilt", "navneskilt", "taktil", "blindeskrift",
+    "vindusdekor", "folie", "bilfoliering", "bildekor", "utsmykning",
+    "banner", "flagg", "messevegg", "messestand", "messesystem", "roll-up",
+    "trykksaker", "visuell identitet", "profilhåndbok", "grafisk design"
+  ],
+
+  "exclude_in_title": [
+    "veiskilt", "trafikkskilt", "vegskilt", "vegmerking", "vernesko", "hjelmer", "verneutstyr"
+  ]
+}
