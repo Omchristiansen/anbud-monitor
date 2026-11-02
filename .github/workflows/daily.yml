@@ -1,0 +1,40 @@
+name: Oppdater anbud
+
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oppdater-anbud
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer avhengigheter
+        run: pip install requests
+
+      - name: Hent anbud fra Doffin
+        env:
+          DOFFIN_API_KEY: ${{ secrets.DOFFIN_API_KEY }}
+        run: python fetch_doffin.py
+
+      - name: Lagre endringer
+        run: |
+          git config user.name "anbud-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/notices.json
+          git diff --staged --quiet || git commit -m "Oppdater anbud $(date -u +%F)"
+          git push
