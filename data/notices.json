@@ -1,4 +1,853 @@
 {
- "updated": null,
- "notices": []
+ "updated": "2026-11-02T15:48:04+00:00",
+ "notices": [
+  {
+   "id": "2021-312453",
+   "title": "Dynamisk innkjøpsordning, IKT-tjenester til Vigo IKS",
+   "buyer": "Vigo IKS",
+   "description": "Vigo IKS kunngjør en dynamisk innkjøpsordning på områdene: Sikkerhetstjenester Utviklerkompetanse Arkitektur Driftstjenester Webdesign Grafisk Design Business Intelligence og Analyse Denne dynamisk innkjøpsordningen gjelder for anskaffelser over kr 100 000 eks. mva.&nbsp;Ordningen kan også benyttes på kjøp under 100.000 eks mva.&nbsp; Den dynamiske innkjøpsordningens lengde er i dette tilfellet tidsubegrenset. (av tekniske årsaker er det satt en foreløpig sluttdato 31.12.2026). Søkeren må angi innenfor hvilke områder de søker opptak i dokumentasjonskravet i konkurranse grunnlagets pkt 1.4.6.3. For full og helhetlig informasjon vises til konkurransegrunnlaget i Mercell Tend Sign.",
+   "type": "DYNAMIC_PURCHASING_SCHEME",
+   "status": "ACTIVE",
+   "published": "2021-06-15",
+   "deadline": "2026-12-31T22:59:00Z",
+   "value": null,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "grafisk design"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2021-371467",
+   "title": "DIO rådgiveroppdrag plan og utvikling - prosjekter og prosesser",
+   "buyer": "Ruter As",
+   "description": "Det inviteres til dynamisk innkjøpsordning for Rådgiveroppdrag plan og utvikling - prosjekter og prosesser til Ruter As. Hensikten med ordningen er å løse behov for bistand til gjennomføring av konkrete utredninger, prosjekter eller prosesser av varierende art og omfang. Mulig oppgaver: • Utarbeide mulighetsstudier og gjennomføre analyser. • Valg av transportløsninger, herunder detaljerte analyser av hvordan trafikktilbudet i et område bør utvikles. • Trasé-, stoppested-, base- og knutepunktutredning for buss, trikk, T-bane og båt. Fysisk planlegging av transportløsninger og tilhørende fasiliteter. • Formelle utredninger av ulike slag: · konseptvalgutredninger (KVU). · forprosjekt som grunn…",
+   "type": "DYNAMIC_PURCHASING_SCHEME",
+   "status": "ACTIVE",
+   "published": "2021-02-04",
+   "deadline": "2028-12-31T11:00:00Z",
+   "value": 30000000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "skilt"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2022-314581",
+   "title": "Dynamisk innkjøpsordning IT – Konsulenter - Brukeropplevelser",
+   "buyer": "Sjøfartsdirektoratet",
+   "description": "Det inviteres til dynamisk innkjøpsordning med leverandører for å dekke Sjøfartsdirektoratets behov for IT konsulenter innenfor området IT – Konsulenter - Brukeropplevelser. Bistand og rådgivning innen brukeropplevelse, utforming og design for Sjøfartsdirektoratets interne utviklingsprosjekter. Oversikten er ikke uttømmende. Kravene kan og vil spesifiseres til den enkelte konkurranse som gjennomføres under innkjøpsordningen.",
+   "type": "DYNAMIC_PURCHASING_SCHEME",
+   "status": "ACTIVE",
+   "published": "2022-01-19",
+   "deadline": "2026-12-31T11:00:00Z",
+   "value": 100000000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "grafisk design"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2023-102271",
+   "title": "Dynamisk innkjøpsordning for klespakker",
+   "buyer": "Utlendingsdirektoratet",
+   "description": "Utlendingsdirektoratet (UDI) inviterer med dette interesserte leverandører til å søke om å bli kvalifisert til dynamisk innkjøpsordning for klespakker.Dette er en fornyet kunngjøring av dynamisk innkjøpsordning for klespakker, med følgende endringer:Lagt til punkt om at ordningen ikke er eksklusivLagt til mulighet for å tildele rammeavtale på ordningen",
+   "type": "DYNAMIC_PURCHASING_SCHEME",
+   "status": "ACTIVE",
+   "published": "2023-12-14",
+   "deadline": "2028-12-15T11:00:00Z",
+   "value": null,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "18100000",
+    "18110000",
+    "18200000",
+    "18331000",
+    "18332000",
+    "18440000"
+   ],
+   "matched_keywords": [
+    "arbeidsklær"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2024-105746",
+   "title": "20-021 Design og brukeropplevelse/Universell utforming",
+   "buyer": "AS Vinmonopolet",
+   "description": "Det er etablert et system for kjøp av konsulentbistand ved hjelp av en dynamisk innkjøpsordning (Dynamic Purchasing System). Nye leverandører kan fortløpende kvalifisere seg til å delta i ordningen. Det er kun kvalifiserte leverandører som vil få tilgang til publiserte konkurranser. I dette trinnet i prosessen kan interesserte leverandører søke om å bli kvalifisert og tatt opp i den dynamiske innkjøpsordningen.Dette fagområdet gjelder design og brukeropplevelse/Universell utforming, se nærmere beskrivelse i konkurransegrunnlaget.",
+   "type": "DYNAMIC_PURCHASING_SCHEME",
+   "status": "ACTIVE",
+   "published": "2024-04-22",
+   "deadline": "2028-05-08T10:00:00Z",
+   "value": 9000000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "79800000",
+    "79822500"
+   ],
+   "matched_keywords": [
+    "grafisk design"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2024-106766",
+   "title": "RKO - Design og brukeropplevelse",
+   "buyer": "Ruter As, Ruter As",
+   "description": "Bistand, rådgivning og utførelse av team- og prosjektoppbygging, team-/prosjektledelse og kulturutvikling innen digitalisering og IT, samt HR, anskaffelser og operatørutvikling. Det inkluderer, men er ikke begrenset til, følgende områder: Tjenestedesign, Interaksjonsdesign, Grafisk design, Brukertesting, Analyse av brukeradferd og Prototyping.",
+   "type": "QUALIFICATION_SCHEME",
+   "status": "ACTIVE",
+   "published": "2024-05-08",
+   "deadline": "2028-02-28T23:00:00Z",
+   "value": null,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "79800000",
+    "79822500"
+   ],
+   "matched_keywords": [
+    "grafisk design"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2024-107298",
+   "title": "20-013 Arkitektur",
+   "buyer": "AS Vinmonopolet",
+   "description": "Det er etablert et system for kjøp av konsulentbistand ved hjelp av en dynamisk innkjøpsordning (Dynamic Purchasing System). Nye leverandører kan fortløpende kvalifisere seg til å delta i ordningen. Det er kun kvalifiserte leverandører som vil få tilgang til publiserte konkurranser. I dette trinnet i prosessen kan interesserte leverandører søke om å bli kvalifisert og tatt opp i den dynamiske innkjøpsordningen.Dette fagområdet gjelder Arkitektur, se nærmere beskrivelse i konkurransegrunnlaget.",
+   "type": "DYNAMIC_PURCHASING_SCHEME",
+   "status": "ACTIVE",
+   "published": "2024-05-16",
+   "deadline": "2028-05-24T10:00:00Z",
+   "value": 5000000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "79800000",
+    "79822500"
+   ],
+   "matched_keywords": [
+    "grafisk design"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2024-110586",
+   "title": "Dynamisk innkjøpsordning på utstyr og materialer til samferdsel og infrastruktur Trøndelag fylkeskommune",
+   "buyer": "Trøndelag fylkeskommune",
+   "description": "Trøndelag fylkeskommune har behov for innkjøp varer i segmentet veg og infrastruktur.Det er utstyr og materialer til entrepriser og oppdrag som Trøndelag fylkeskommune setter ut til andre entreprenører, som er inkludert i avtalen.For mer informasjon på behov og omfang se vedlegg 4.2 kravspesifikasjon",
+   "type": "DYNAMIC_PURCHASING_SCHEME",
+   "status": "ACTIVE",
+   "published": "2024-07-08",
+   "deadline": "2029-07-31T10:00:00Z",
+   "value": 20000000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "34928470",
+    "34992000"
+   ],
+   "matched_keywords": [
+    "skilt",
+    "skilting"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2024-112550",
+   "title": "Dynamisk Innkjøpsordning (DIO) kjøp av konsulenttjenester",
+   "buyer": "Værnesregionen Innkjøp, Stjørdal kommune, Selbu kommune, Tydal kommune, Meråker kommune, Frosta kommune, Holtålen kommune",
+   "description": "Anskaffelsens formål er å inngå en dynamisk innkjøpsordning ( DIO) som skal dekke Oppdragsgivers behov for kjøp av konsulenttjenester innenfor alle fagfelt definert av KS samt alle fagfelt innenfor områdene bydrift, infrastruktur, areal og miljø. Dette både innen for drift og investering Den dynamiske innkjøpsordningen skal også kunne brukes til å inngå rammeavtaler Unntatt er konsulenttjenester innen for kraft, juridisk rådgiving og lovpålagte bedriftshelsetjenester. DIO skal også gjelde innenfor forsyningsforskriften.",
+   "type": "DYNAMIC_PURCHASING_SCHEME",
+   "status": "ACTIVE",
+   "published": "2024-09-04",
+   "deadline": "2030-10-21T21:59:59Z",
+   "value": null,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [
+    "79340000"
+   ],
+   "matched_keywords": [],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-109603",
+   "title": "Dynamisk innkjøpsordning for entreprenørtjenester - Vennesla kommune",
+   "buyer": "Vennesla kommune",
+   "description": "Anskaffelser i den dynamiske innkjøpsordningen vil typisk gjelde følgende type arbeid: Grunnarbeid og massetransport Graving, planering, oppfylling og komprimering. Massetransport og håndtering av overskuddsmasser. Vann- og avløpsarbeider (VA) Etablering og rehabilitering av ledningsanlegg for vann, spillvann og overvann. Vei, trafikk og infrastruktur Vedlikehold og reparasjon av kommunale veier og gang-/sykkelveier. Grøfting, kantklipping, grøfteutvidelse og drenering. Oppsetting og fundamentering av skilt, rekkverk, gjerder og pullerter. Mindre asfalteringsarbeider og grusvedlikehold. Parker, lekeplasser og grøntanlegg Opparbeidelse og vedlikehold av parker, grøntområder og lekeplasser. G…",
+   "type": "DYNAMIC_PURCHASING_SCHEME",
+   "status": "ACTIVE",
+   "published": "2026-05-29",
+   "deadline": "2032-04-20T00:00:00Z",
+   "value": 100000000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "skilt"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-113242",
+   "title": "Uniforms- og arbeidsfottøy",
+   "buyer": "Politiets fellestjenester, Tolletaten, Kriminalomsorgen, Politiets sikkerhetstjeneste, Sysselmesteren på Svalbard, Forsvarsmateriell, Direktoratet for samfunnssikkerhet og beredskap, Statens vegvesen",
+   "description": "Politiets fellestjenester (PFT) skal på vegne av politi- og lensmannsetaten, Tolletaten, Kriminalomsorgen inkludert Høyskolen for kriminalomsorg, Politiets sikkerhetstjeneste (PST), Sysselmesteren på Svalbard, Forsvaret, Direktoratet for samfunnssikkerhet og beredskap (DSB) og Statens vegvesen (SVV) inngå rammeavtale fordelt på to delområder for anskaffelse av uniforms- og arbeidsfottøy til bruk i etatenes ulike tjenester og funksjoner. På grunnlag av tidligere års anskaffelser estimeres, uten forpliktelse for oppdragsgiver, følgende sannsynlige omfang i løpet av avtaleperioden, inkludert opsjoner: Delområde 1 Formelle sko: 44 millioner NOK ekskl. mva. Delområde 2 Operativt taktisk fottøy o…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-08-21",
+   "deadline": "2026-11-06T11:00:00Z",
+   "value": 205000000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "uniform"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-115181",
+   "title": "Trykkeritjenester",
+   "buyer": "Universitetet i Agder",
+   "description": "Universitetet i Agder skal inngå avtale med en leverandør som kan levere trykkeritjenester som produksjon av kataloger, brosjyrer, plakater, postere, programmer og annet trykt materiell som universitetet har behov for. Vi ønsker en samarbeidspartner som har god kompetanse og erfaring med å produsere trykksaker av høy kvalitet samt innehar produksjonskapasitet til å levere til riktig tid.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-09-30",
+   "deadline": "2026-11-04T11:00:58Z",
+   "value": null,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "79800000"
+   ],
+   "matched_keywords": [
+    "trykksaker"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-115239",
+   "title": "26205 (2026-124) Kontor og skolemateriell, rammeavtale",
+   "buyer": "Innkjøpskontoret AS, Øvre Romerike Innkjøpssamarbeid",
+   "description": "Konkurransen gjelder rammeavtale på levering av kontor og skolemateriell. Deltagere i anskaffelsen: Kommunene Eidsvoll, Gjerdrum, Hurdal, Nannestad, Nes og Ullensaker. Anskaffelsens verdi anslås til: NOK 4.100.000,- eks. mva per år. Maksimalverdi for hele avtaleperioden, inkludert eventuelle opsjoner og forventet prisstigning: NOK 25.000.000,- eks mva. Behovet er usikkert. Volumet kan variere både opp og ned, og vil i avtaleperioden være avhengig av blant annet oppdragsgivers behov, aktiviteter, budsjettsituasjon og andre rammefaktorer. For nærmere informasjon viser vi til anskaffelsesdokumentene. Lærlinger: Oppdragsgiver har vurdert anskaffelsen opp mot anskaffelsesloven § 5h, og konkluder…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-01",
+   "deadline": "2026-11-03T11:00:00Z",
+   "value": 16400000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "trykksaker"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-115270",
+   "title": "Kundeveiledere",
+   "buyer": "Ruter AS",
+   "description": "Ruter har behov for en leverandør som kan stille med kvalifiserte kundeveiledere/informanter til ulike informasjons- og veiledningsoppdrag. Oppdragene kan blant annet gjelde avvik i trafikken, ruteendringer, arrangementer, markedsaktiviteter og andre situasjoner der Ruter har behov for bemanning for å ivareta kundekommunikasjon og praktisk bistand.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-02",
+   "deadline": "2026-11-03T11:00:00Z",
+   "value": 42000000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [
+    "79340000"
+   ],
+   "matched_keywords": [],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-115381",
+   "title": "Leie av arrangementsutstyr",
+   "buyer": "Ringsaker kommune",
+   "description": "Rammeavtalen gjelder leie av arrangementsutstyr med tilhørende tjenester til Ringsaker kommune, herunder blant annet levering, henting, montering og demontering samt faglig bistand.Avtalen omfatter blant annet publikumsgjerder, kabelbeskyttere, kjøreplater, toaletter og toalettvogner, salgs- og kjølecontainere, HC-plattform, teleskoptruck, samt strømaggregater, fordelingssentraler og skjøtekabler for midlertidig strømforsyning.Avtalen skal dekke kommunens behov ved planlagte arrangementer, uforutsette hendelser, midlertidige avstengninger og lignende situasjoner. Den omfatter også montering, demontering, befaringer, behovsavklaringer og faglig bistand etter avrop.For nærmere informasjon vis…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-05",
+   "deadline": "2026-11-03T11:00:00Z",
+   "value": null,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [
+    "39154000"
+   ],
+   "matched_keywords": [],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-115404",
+   "title": "Innvendig og utvendig skilting av kommunale bygg - 2027",
+   "buyer": "Trondheim kommune, Bakklandet Menighets Omsorgsenter, Trondhjems Hospital, Kystad helse- og velferdssenter, Stavne Arbeid Trondheim KF, Stavne Inkludering Trondheim KF, Trondheim Renholdsverk AS, Trøndelag brann- og redningstjeneste IKS",
+   "description": "Kjøp og montering av innvendig og utvendig skilting til kommunale bygg.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-05",
+   "deadline": "2026-11-06T11:00:00Z",
+   "value": 7500000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "34928470",
+    "44423400"
+   ],
+   "matched_keywords": [
+    "skilt",
+    "skilting"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-115482",
+   "title": "IK-EØS 086-2026 Arbeidstøy og vernebekledning, inkl. regntøy og sko",
+   "buyer": "Bergen Kommune, Alver kommune, Askøy kommune, Austevoll kommune, Bjørnafjorden kommune, Kvam Herad, Masfjorden kommune, Modalen kommune, Osterøy kommune, Samnanger kommune, Vaksdal kommune, Voss herad, Øygarden kommune, Ullensvang kommune, Bergen Røde Kors sykehjem, Betanien rehabilitering og sykehjem, Havforskningsinstituttet",
+   "description": "Anskaffelse av arbeidstøy og vernebekledning, inklusive regntøy, verneutstyr og sko til bruk for tekniske tjenester, bygg og anlegg, renhold, skole og barnehage m.fl. Anskaffelsen skal dekke Oppdragsgivernes behov for slike produkter og vi ønsker en leverandør som kan tilby et bredt sortiment i de etterspurte produktkategorier. Det skal inngås kontrakt for hele sortimentet innenfor følgende kategorier: Arbeidstøy og vernebekledning, inkl. regntøy og sko, arbeidstøy tilbehør og verneutstyr. Det skal leveres både dame- og herremodeller/størrelser.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-06",
+   "deadline": "2026-11-06T13:00:00Z",
+   "value": 60000000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "18100000",
+    "18110000"
+   ],
+   "matched_keywords": [
+    "arbeidsklær",
+    "arbeidstøy"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-115577",
+   "title": "Lærebøker, læremidler og fagbøker, rammeavtale",
+   "buyer": "Rakkestad kommune",
+   "description": "Konkurransen gjelder rammeavtale for levering av lærebøker, læremidler og fagbøker. Anskaffelsens verdi anslås til: NOK 1.000.000,- eks. mva per år. Maksimalverdi for hele avtaleperioden, inkludert eventuelle opsjoner og forventet prisstigning: 6.500.000,- eks mva. Behovet er usikkert. Volumet kan variere både opp og ned, og vil i avtaleperioden være avhengig av blant annet oppdragsgivers behov, aktiviteter, budsjettsituasjon og andre rammefaktorer. For nærmere informasjon viser vi til anskaffelsesdokumentene. Oppdragsgiver har vurdert anskaffelsen opp mot anskaffelsesloven § 5h og konkludert med at det ikke stilles krav til lærlinger i denne anskaffelsen da anskaffelsen er en vareanskaffel…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-07",
+   "deadline": "2026-11-10T11:00:58Z",
+   "value": 6500000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "trykksaker"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-115833",
+   "title": "Læremiddel til grunnskulen - INSS",
+   "buyer": "Kinn kommune, Askvoll kommune, Aurland kommune, Bremanger kommune, Fjaler kommune, Gloppen kommune, Gulen kommune, Høyanger kommune, Luster kommune, Lærdal kommune, Sogndal kommune, Stad kommune, Stryn kommune, Årdal kommune, Solund kommune, Vik kommune",
+   "description": "INSS vil med denne anskaffinga inngå rammeavtalar for kjøp av trykte læremiddel til grunnskulen, 1.–10. trinn. Anskaffinga er delt i tre geografiske delkontraktar. Deltakarar i rammeavtale etter denne anskaffinga er følgande kommunar: Askvoll, Aurland, Bremanger, Fjaler, Gloppen, Gulen, Høyanger, Kinn, Luster, Lærdal, Sogndal, Solund, Stad, Stryn, Vik og Årdal. Sjå vedlegg \"Konkurransegrunnlag Læremidler\" samt følgande vedlegg for informasjon om konkurransen: Vedlegg 1 – Kravspesifikasjon Vedlegg 2 – Prisskjema Vedlegg 3 – Oversikt over deltakarar på avtala Vedlegg 4 - Referanseliste – relevante leveransar Vedlegg 5 – Kontraktsvilkår Vedlegg 6 – Forpliktelseserklæring Vedlegg 7 – Tilbodsbre…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-12",
+   "deadline": "2026-11-12T11:00:00Z",
+   "value": 60000000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "trykksaker"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-115841",
+   "title": "Anskaffelse av rammeavtale på grafiske tjenester",
+   "buyer": "Statens Kartverk",
+   "description": "Kommunikasjonsavdelingen i Kartverket har et totalansvar for intern og ekstern kommunikasjon, herunder presse- og mediearbeid, nettsider, sosiale medier, samfunnskontakt, profilering, grafisk profil osv. Vi ønsker å inngå en avtale med en ekstern samarbeidspartner som kan bistå med å løse kommunikasjonsbehov innenfor ulike fagområder, hvor Kartverket ikke har tilstrekkelig eller manglende kompetanse. Oppdragsgiver har løpende behov for grafiske tjenester og produkter/visuell rådgivning knyttet til trykksaker som eksempelvis status- og årsrapport og profileringsmateriell. Andre oppdrag kan tilkomme som eksempelvis animasjoner, video, illustrasjoner/infografikk, videreutvikle Office-malverk o…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-12",
+   "deadline": "2026-11-09T08:00:00Z",
+   "value": 2000000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "79340000",
+    "79800000",
+    "79822500"
+   ],
+   "matched_keywords": [
+    "grafisk design",
+    "profilering",
+    "trykksaker"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-115844",
+   "title": "Reklamebyråtjenester",
+   "buyer": "Vygruppen AS",
+   "description": "Anskaffelsens formål er å inngå rammeavtale om reklamebyråtjenester som skal understøtte Vygruppens arbeid med merkevarebygging, markedsføring og kommersiell kommunikasjon. Leveransen omfatter strategiske og operative reklamebyråtjenester, herunder rådgivning, kreative konsepter, kampanjer, innholdsproduksjon og reklamefilm.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-12",
+   "deadline": "2026-11-09T11:00:00Z",
+   "value": 80000000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [
+    "79340000"
+   ],
+   "matched_keywords": [],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-115925",
+   "title": "Annonsetjenester",
+   "buyer": "Harstad Kommune, Dielddanuori suohkan - Tjeldsund kommune , Kvæfjord Kommune",
+   "description": "Bakgrunn Harstad kommune skal på vegne av deltakende samarbeidskommuner inngå en rammeavtale for annonsetjenester. Formålet med anskaffelsen er å etablere en mer helhetlig, effektiv og forutsigbar prosess for bestilling, produksjon, publisering og oppfølging av annonser. Kommunene har behov for en løsning som kombinerer høy grad av selvbetjening med tilgang til faglig rådgivning ved behov. Dette gjelder særlig rekrutteringsannonser, men også mer komplekse eller lovpålagte kunngjøringer, hvor riktig kanalvalg, målretting og dokumentasjon er viktig. Anskaffelsen skal bidra til bedre sporbarhet, intern kontroll og arkiverbar dokumentasjon gjennom hele annonseprosessen. Det er også et sentralt…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-14",
+   "deadline": "2026-11-16T11:00:00Z",
+   "value": 4500000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [
+    "79340000"
+   ],
+   "matched_keywords": [],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-115928",
+   "title": "Rammeavtale for kjøp og abonnementshåndtering av tidsskrifter 2027-2030 Campus Ås",
+   "buyer": "Norges miljø- og biovitenskapelige universitet",
+   "description": "Formålet med anskaffelsen er å inngå en rammeavtale med tidsskriftagent for kjøp og abonnementshåndtering av trykte og elektroniske tidsskrifter.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-14",
+   "deadline": "2026-11-12T08:00:58Z",
+   "value": null,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "trykksaker"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116019",
+   "title": "Konseptelementer for fysiske arenaer",
+   "buyer": "Norsk Tipping",
+   "description": "Norsk Tipping har behov for å gjennomføre en anskaffelse som omfatter elementer til bruk i fysiske arenaer. Elementene som skal kunne leveres er: skilt med uten lyskilder, dispensere for salg av skrapespill og annet materiell som skal brukes på fysiske arenaer, samt ulike konsulenttjenester som naturlig tilhører områdene. Leveranser det etterspørres i anskaffelsen er: • Produksjon av definert utstyr som brukes ute hos Flax Forhandlere • Produksjon av ulike typer skilt med og uten lyskilde • Folie av ulike størrelse og utforming • Utvikling og produksjon av nye elementer, inkl. prototyper • Konsulentbistand som naturlig tilhører ulike leveranser • Kjøp av dispensere for salg av skrapespill e…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-15",
+   "deadline": "2026-11-13T09:00:00Z",
+   "value": 40000000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "22462000",
+    "34928470",
+    "34992000",
+    "44423400"
+   ],
+   "matched_keywords": [
+    "folie",
+    "skilt",
+    "skilting",
+    "trykksaker"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116082",
+   "title": "Ny kunngjøring - Anskaffelse av digital partner for 22. juli-senteret",
+   "buyer": "22. JULI-SENTERET",
+   "description": "Se avlyst konkurranse om Anskaffelse av digital partner for 22. juli-senteret med DOFFIN-referanse: 2026-112475. 22.juli-senteret har behov for en digital samarbeidspartner som kan bidra til stabil drift, forvaltning og videreutvikling av senterets digitale løsninger og kommunikasjon, og har til hensikt å inngå en rammeavtale for å imøtekomme 22.juli-senterets behov. Rammeavtalen har en varighet på 2 år, med opsjon for oppdragsgiver til å forlenge avtalen med 1 + 1 år. Rammeavtalen har en maksimal verdi på NOK 6 millioner ekskl. mva. Anslått uttak er NOK 1,5 millioner ekskl. mva. per år. Rammeavtalen dekker følgende hovedtyper ytelser: 1. Løpende drift og forvaltning av eksisterende digital…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-16",
+   "deadline": "2026-11-13T11:00:00Z",
+   "value": 6000000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "79800000",
+    "79822500"
+   ],
+   "matched_keywords": [
+    "grafisk design"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116223",
+   "title": "NRK 2026/73 Rammeavtale Identitetsdesign",
+   "buyer": "Norsk rikskringkasting AS",
+   "description": "Anskaffelse av parallell rammeavtale for identitetsdesign.Tildeling av kontrakt vil bli foretatt etter prosedyren konkurranse med forhandling.Anskaffelsen er delt i fire kategorier:Helhetlig merkevareforvaltning og designDesign for digital produkt- og tjenesteutviklingTV-design og lineær bevegelig designInnsikt i merkevare i en global kontekstLeverandørene kan inngi tilbud på én, flere eller alle kategorier.Rammeavtalen trer i kraft når den er signert av begge parter, og har en varighet på 2 + 1 + 1 år.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-19",
+   "deadline": "2026-11-23T11:00:00Z",
+   "value": 16500000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "79800000",
+    "79822500"
+   ],
+   "matched_keywords": [
+    "grafisk design"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116457",
+   "title": "Inspisientsystem til DNS sitt moderniseringsprosjekt",
+   "buyer": "AS Den Nationale Scene",
+   "description": "Oppdragsgivers formål med denne anskaffelsen er å inngå kontrakt om levering av inspisient-anlegg, som skal fungere som overordnet styrings- og automatiseringssystem for inspisientfunksjonene. Anskaffelsen omfatter også tilhørende løsninger for regikommunikasjon, medhør, medsyn, CUE-lys, infrastruktur og tekstskjermer. Deler av leveransene er skilt ut som opsjoner, av blant annet av budsjettmessige hensyn. Hvilke opsjoner som blir løst ut avklares primært i løpet av detaljprosjekteringsfasen. Siste frist for å løse ut opsjoner for utstyr er tidspunkt for overlevering av anlegg. Se bilag 3 Prisskjema for oversikt over hva som er opsjoner. Systemet skal gi inspisient og teknisk personell et f…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-23",
+   "deadline": "2026-11-25T11:00:00Z",
+   "value": 14000000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "skilt"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116603",
+   "title": "Anskaffelse av rammeavtale på arbeidsklær",
+   "buyer": "KYSTVERKET",
+   "description": "Kystverket inviterer til åpen anbudskonkurranse for rammeavtale på kjøp av arbeidsklær for operativt personell",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-26",
+   "deadline": "2026-11-23T11:00:00Z",
+   "value": 8000000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "18100000",
+    "18110000",
+    "18200000"
+   ],
+   "matched_keywords": [
+    "arbeidsklær"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116709",
+   "title": "Rammeavtale byggevarer, trelast, maleprodukt, festemateriell, verktøy mm",
+   "buyer": "Stange kommune, Stange kommunale boligforetak",
+   "description": "Oppdragsgiver for anbudskonkurransen er Stange kommune, ved avdeling for kommunalteknikk, eiendomsavdelingen, og Stange kommunale boligforetak.Formålet med anskaffelsen er å dekke oppdragsgivers behov for byggevarer, trelast, maleprodukt, festemateriell, verktøy m.m.Oppdragsgiver planlegger å inngå rammeavtale med inntil tre tilbydere, gitt at det foreligger en tilstrekkelig mengde egnede tilbud. Fordelingsmekanismen mellom rammeavtalepartene vil skje i samsvar med fordelingsmekanismen bekskravet i dokumentet Rammeavtale varer.For ytterligere informasjon om anskaffelsens innhold og etterspurte produkter, vises det til Del 2 bilag 1 Kravspesifikasjon og bilag 4A Prisskjema.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-28",
+   "deadline": "2026-12-01T11:00:00Z",
+   "value": 12000000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "folie"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116721",
+   "title": "Rammeavtale på arbeidstøy til helse og oppvekst",
+   "buyer": "Innherred anskaffelser, Grong kommune, Inderøy kommune, Levanger kommune, Lierne kommune, Namsos kommune, Røyrvik kommune, Snåsa kommune, Steinkjer kommune, Verdal kommune, Flatanger kommune, Høylandet kommune",
+   "description": "Oppdragsgiver Innherred Anskaffelser KO (tidligere Innherred Innkjøp) ble etablert 01.01.2019 og er et kommuneoppgavefelleskap mellom 11 kommuner. Formålet med samarbeidet er å gjennomføre rasjonelle, forsvarlige og effektive anskaffelser på vegne av kommunene. Oppdragsgivers kontaktperson er: Julie Sandnes Eventuelle spørsmål skal rettes til kontaktpersonen via konkurransegjennomføringsverktøyet. Det skal ikke være kontakt/kommunikasjon med andre personer hos oppdragsgiver hva gjelder tilbudskonkurransen enn nevnte kontaktperson. Anskaffelsens formål Rammeavtalen omfatter levering av arbeidsbekledning, utebekledning, arbeidssko, annet arbeidsrelatert fottøy og tilhørende produkter til ansa…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-28",
+   "deadline": "2026-12-01T11:00:00Z",
+   "value": 34480000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "18100000",
+    "18110000",
+    "18200000"
+   ],
+   "matched_keywords": [
+    "arbeidsklær",
+    "arbeidstøy"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116728",
+   "title": "Arbeidstøy helse - Karasjok og Kautokeino kommune 2027-2028",
+   "buyer": "Karasjok kommune, Kautokeino kommune",
+   "description": "Oppdragsgivere i denne konkurransen er Kárásjoga gielda/Karasjok kommune(K_5610) og Guovdageainnu suohkan/Kautokeino kommune(K_5612).Deltakerne i konkurransen er oppdragsgiver og kontraktspart hver for seg.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-28",
+   "deadline": "2026-11-27T11:00:00Z",
+   "value": 2600000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "18100000",
+    "18110000"
+   ],
+   "matched_keywords": [
+    "arbeidsklær",
+    "arbeidstøy"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116747",
+   "title": "Reklame-, kommunikasjon- og medietjenester til Eksfin, Rammeavtale",
+   "buyer": "Eksportfinansiering Norge",
+   "description": "Eksfin skal inngå en ny rammeavtale med én leverandør av reklame-, kommunikasjons- og medietjenester. Avtalen skal bidra til økt kjennskap til, og forståelse av, Eksfins tilbud blant norske eksportører og leverandører, gjøre banker bedre i stand til å identifisere saker der Eksfin kan bidra, og styrke internasjonale kjøperes kjennskap til finansieringsmuligheter knyttet til norske leveranser. Bistanden skal støtte databasert planlegging, gjennomføring, optimalisering og evaluering av Eksfins markedsaktiviteter. Leverandøren skal kombinere strategisk og kreativ kompetanse med effektiv produksjon, medieplanlegging og -kjøp, analyse og relevant bruk av teknologi. Fullstendig beskrivelse og kra…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-28",
+   "deadline": "2026-11-30T11:00:00Z",
+   "value": 6000000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [
+    "79340000"
+   ],
+   "matched_keywords": [],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116773",
+   "title": "R02092 - DPS - Forbruksmateriell",
+   "buyer": "Forsvarsbygg",
+   "description": "Dynamisk innkjøpsordning for innkjøp av forbruksmateriell.Forsvarsbygg inviterer leverandøren til å inngi søknad om prekvalifisering for innkjøp av forbruksmateriell. For å kunne delta i fremtidige konkurranser under ordningen, må leverandøren være kvalifisert gjennom denne ordningen.Ordningen er landsdekkende. Hver enkelt konkurranse vil presisere hvor behovet er lokalisert.",
+   "type": "DYNAMIC_PURCHASING_SCHEME",
+   "status": "ACTIVE",
+   "published": "2026-10-28",
+   "deadline": "2030-10-14T10:00:00Z",
+   "value": 20000000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "trykksaker"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116806",
+   "title": "HO-26-10 Rammeavtale Kontorrekvisita og fritt skolemateriell",
+   "buyer": "Abakus AS",
+   "description": "Bakgrunn og formål Engerdal, Trysil, Stor-Elvdal, Åmot, Folldal, Os, Rendalen, Tolga, Tynset og Røros kommune har til hensikt å inngå rammeavtale om kjøp av kontorrekvisita og fritt skolemateriell til bruk i kommunal administrasjon, barnehager og skoler. Formålet med anskaffelsen er å oppnå leveranser med god kvalitet til rimeligst mulig pris, og med effektive bestillings- og leveringsrutiner. Leverandøren skal bruke sin fagkunnskap og kompetanse for å bidra til at kontraktens formål blir ivaretatt. Omfang Anskaffelsen omfatter levering av kontorrekvisita og fritt skolemateriell, se kravspesifikasjon for nærmere opplysninger. Dette er en rammeavtale og medfører ingen kjøpeplikt hos oppdrags…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-29",
+   "deadline": "2026-12-02T11:00:00Z",
+   "value": 8000000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "trykksaker"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116867",
+   "title": "Entreprise 2572 Himlingsarbeider 2 - Nye Aker",
+   "buyer": "Helse Sør-Øst RHF, Sykehusbygg HF",
+   "description": "Oppdraget omfatter systemhimlinger metall og spesialhimlinger i hele SomatikkbyggetInnhold i entreprisen:· Metallhimling korridor (EHB.002.01-10)· Rasterhimling i aluminium· Monolittisk himling (steinullsplater og akustikkpuss) (EHB.003.10)· Bafler, steinullsplater (EHB.003.01, 06)· Nedhengt systemhimling fargede steinullsplater skjult og delvis skjult innfesting (EHB.003.03, 05, 08, 09)· Direktemontert isolasjon steinull P-hus (EHA.003.02-03)· Nedhengt treullsement himling (EHB.003.07)· Direktemontert treullsement himling (EHA.003.01)· Nedlektede steinullsplater (EHA.002.04-05)· Direktemontert min.ulls plater (EHA.002.01-03)· Direktemontert akustisk demping med hygienekrav og folie (HSI)",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-30",
+   "deadline": "2026-12-04T11:00:00Z",
+   "value": null,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "folie"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116872",
+   "title": "Podcast Services",
+   "buyer": "NORGES BANK",
+   "description": "Podcast Services",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-30",
+   "deadline": "2026-11-26T11:00:00Z",
+   "value": 4000000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [
+    "79340000"
+   ],
+   "matched_keywords": [],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116876",
+   "title": "Tjenestekonsesjonskontrakt om reklameformidlingstjenester - K26-13",
+   "buyer": "Kolumbus AS",
+   "description": "Kolumbus skal inngå én tjenestekonsesjonskontrakt om reklameformidlingstjenester for buss, med opsjon på utvidelse av kontraktens omfang til ferje og bysykkel. Kontrakten inkluderer salg av reklame samt montering, drift og vedlikehold av reklameflatene.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-30",
+   "deadline": "2026-11-25T11:00:58Z",
+   "value": 180000000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "22459100",
+    "22462000",
+    "79340000"
+   ],
+   "matched_keywords": [
+    "trykksaker"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116895",
+   "title": "Digital tilgang til aviser",
+   "buyer": "Stortinget",
+   "description": "Stortinget har behov for å inngå avtale med en leverandør som kan tilby digital tilgang til nyhetskilder som ikke dekkes av Stortingets eksisterende avtaler. Tilgangen skal være tilgjengelig via PC, nettbrett og mobiltelefon, og omfatte aviser i PDF-format eller tilsvarende e-avisformat. Avtalen forventes å omfatte om lag 200 aviser, men antallet tilgjengelige publikasjoner kan variere i avtaleperioden. Samtlige nyhetskilder skal være tilgjengelige gjennom én samlet plattform som gir brukerne en helhetlig og oversiktlig tilgang til innholdet, med gode søke- og navigasjonsmuligheter.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-30",
+   "deadline": "2026-12-01T11:00:00Z",
+   "value": 8500000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "trykksaker"
+   ],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116978",
+   "title": "Ny kunngjøring- Produkter og tjenester for produksjon av standardiserte merker for lokasjoner og utstyr i Helse Sør-Øst",
+   "buyer": "SYKEHUSINNKJØP HF",
+   "description": "Formålet med anskaffelsen er å etablere en rammeavtale for levering av utstyr, forbruksmateriell og produksjonstjenester for produksjon av standardiserte merker for lokasjoner og utstyr i Helse SørØst. Anskaffelsen skal understøtte innføring og bruk av enhetlig fysisk og digital identifikasjon av lokasjoner og utstyr basert på internasjonale GS1 standarder. Lokasjoner skal kunne identifiseres ved bruk av GS1 GLN, og utstyr skal kunne identifiseres ved bruk av GS1 GIAI, i form av GS1 Digital Link og øvrige standardiserte GS1 syntakser. Gjennom bruk av internasjonale standarder skal merkene kunne benyttes av digitale system i Helse Sør-Øst, eksempelvis løsninger for Facility Management (FM)/e…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-11-02",
+   "deadline": "2026-12-03T09:00:00Z",
+   "value": null,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [
+    "79800000",
+    "79810000"
+   ],
+   "matched_keywords": [],
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "still_listed": true
+  }
+ ]
 }
