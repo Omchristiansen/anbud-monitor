@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T12:12:37+00:00",
+ "updated": "2026-11-04T12:25:12+00:00",
  "notices": [
   {
    "id": "2021-312453",
@@ -18,7 +18,7 @@
     "grafisk design"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -38,7 +38,7 @@
     "skilt"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -58,7 +58,7 @@
     "grafisk design"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -85,7 +85,7 @@
     "arbeidsklær"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -108,7 +108,7 @@
     "grafisk design"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -131,7 +131,7 @@
     "grafisk design"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -154,7 +154,7 @@
     "grafisk design"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -178,7 +178,7 @@
     "skilting"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -198,7 +198,7 @@
    ],
    "matched_keywords": [],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -218,7 +218,7 @@
     "skilt"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -238,7 +238,7 @@
     "uniform"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -261,7 +261,7 @@
    ],
    "first_seen": "2026-11-02",
    "last_seen": "2026-11-03",
-   "still_listed": true
+   "still_listed": false
   },
   {
    "id": "2026-115239",
@@ -304,6 +304,29 @@
    "still_listed": false
   },
   {
+   "id": "2026-115323",
+   "title": "Rammeavtale for arbeidstøy",
+   "buyer": "Nedre Romerike vann- og avløpsselskap IKS",
+   "description": "Anskaffelse av rammeavtale for arbeidstøy på NRVA. NRVA drifter vannverk, avløpsrenseanlegg og biogassanlegg. NRVA har også en egen avdeling med elektrikere og automatikere, samt et eget verksted for vedlikehold av anleggene.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-02",
+   "deadline": "2026-11-16T09:00:58Z",
+   "value": 2500000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "18100000"
+   ],
+   "matched_keywords": [
+    "arbeidsklær",
+    "arbeidstøy"
+   ],
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "still_listed": true
+  },
+  {
    "id": "2026-115381",
    "title": "Leie av arrangementsutstyr",
    "buyer": "Ringsaker kommune",
@@ -344,7 +367,7 @@
     "skilting"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -368,7 +391,7 @@
     "arbeidstøy"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -388,7 +411,7 @@
     "trykksaker"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -408,7 +431,7 @@
     "trykksaker"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -434,7 +457,7 @@
     "trykksaker"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -454,7 +477,7 @@
    ],
    "matched_keywords": [],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -474,7 +497,7 @@
    ],
    "matched_keywords": [],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -494,7 +517,7 @@
     "trykksaker"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -522,7 +545,7 @@
     "trykksaker"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -545,7 +568,7 @@
     "grafisk design"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -568,7 +591,38 @@
     "grafisk design"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116435",
+   "title": "Skilt og tilhørende tjenester",
+   "buyer": "DRAMMEN KOMMUNE",
+   "description": "Drammen kommune skal inngå rammeavtale med én leverandør for levering av skilt og tilhørende tjenester. Formålet med anskaffelsen er å dekke kommunens løpende behov for produksjon, levering, montering og vedlikehold av skilt og grafiske løsninger.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-22",
+   "deadline": "2026-11-11T11:00:00Z",
+   "value": 2300000.0,
+   "currency": "NOK",
+   "tier": 1,
+   "matched_cpv": [
+    "22459100",
+    "22462000",
+    "34928470",
+    "34992000",
+    "44423400",
+    "79800000",
+    "79810000"
+   ],
+   "matched_keywords": [
+    "folie",
+    "skilt",
+    "skilting",
+    "trykksaker"
+   ],
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -588,7 +642,27 @@
     "skilt"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116551",
+   "title": "Fv. 6164 Djupdalsbrua",
+   "buyer": "Trøndelag Fylkeskommune",
+   "description": "A2 Innbydelse til tilbudskonkurranse Kontraktsarbeid: Fv. 6164 Djupdalsbrua Trøndelag fylkeskommune ønsker tilbud fra entreprenører med det faglige, tekniske og økonomiske grunnlag som er nødvendig for oppfylling av kontrakten. Videre kreves erfaring fra tilsvarende arbeider for utførelse av ovennevnte kontraktsarbeid i henhold til konkurransegrunnlaget. Det vises til utfyllende bestemmelser i konkurransegrunnlagets kap. B2. På det tidspunktet konkurransen kunngjøres er det stor usikkerhet i markedet for materialpriser og tilgang på ressurser. Dette med bakgrunn i krigen i Ukraina. Det kan også være iverksatt tiltak og anbefalinger knyttet til håndteringen av disse situasjonene. Vi forvente…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-24",
+   "deadline": "2026-11-20T11:00:00Z",
+   "value": null,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "skilt"
+   ],
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -612,7 +686,7 @@
     "arbeidsklær"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -632,7 +706,7 @@
     "folie"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -657,7 +731,7 @@
     "arbeidstøy"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -681,7 +755,7 @@
     "arbeidstøy"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -701,7 +775,28 @@
    ],
    "matched_keywords": [],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116768",
+   "title": "Rammeavtale Grunnarbeid",
+   "buyer": "Sveio kommune",
+   "description": "Sveio kommune ynsker å inngå rammeavale på grunnarbeid i samband med bygningsarbeid, trafikksikring, skilting, vegvedlikehald, vann, avløp og overvatn, samt mindre prosjekter. Det kan inngås inntil 2 rammeavtaler. Varigheit på avtalen er 2 år med opsjon på 1+1 år.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-28",
+   "deadline": "2026-11-18T11:00:58Z",
+   "value": null,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "skilt",
+    "skilting"
+   ],
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -721,7 +816,7 @@
     "trykksaker"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -741,7 +836,7 @@
     "trykksaker"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -761,7 +856,7 @@
     "folie"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -781,7 +876,7 @@
    ],
    "matched_keywords": [],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -805,7 +900,7 @@
     "trykksaker"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -825,7 +920,27 @@
     "trykksaker"
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
+   "still_listed": true
+  },
+  {
+   "id": "2026-116937",
+   "title": "Rammeavtale for solskjerming",
+   "buyer": "Arendal kommune",
+   "description": "Bakgrunn Arendal kommune har behov for å etablere en rammeavtale for solskjerming i kommunale bygg. Formålet er å sikre en helhetlig og forutsigbar leveranse av nyinstallasjon, service, vedlikehold og reparasjoner, slik at solskjermingsanleggene fungerer tilfredsstillende gjennom hele levetiden. Behovet omfatter både eksisterende og nye anlegg. Arendal kommune forvalter en bygningsmasse på om lag 42 bygg (350 000kvm), hovedsakelig skoler, barnehager, omsorgsbygg, idrettsbygg og administrasjonsbygg. Byggene er av ulik alder og har ulik grad av solskjerming fra før. En vesentlig del av oppdragene gjelder eldre installasjoner og anlegg utenfor garantitid, herunder løsninger levert av ulike pro…",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-10-31",
+   "deadline": "2026-11-30T11:00:00Z",
+   "value": 1500000.0,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [],
+   "matched_keywords": [
+    "folie"
+   ],
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
    "still_listed": true
   },
   {
@@ -846,7 +961,27 @@
    ],
    "matched_keywords": [],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
+   "still_listed": true
+  },
+  {
+   "id": "2026-117078",
+   "title": "Kjøp av elsykler og elsparkesykler",
+   "buyer": "Lørenskog kommune",
+   "description": "Lørenskog kommune inviterer til åpen tilbudskonkurranse for anskaffelse av rammeavtale for kjøp av elsykler og elsparkesykler.",
+   "type": "ANNOUNCEMENT_OF_COMPETITION",
+   "status": "ACTIVE",
+   "published": "2026-11-03",
+   "deadline": "2026-11-12T11:00:58Z",
+   "value": null,
+   "currency": "NOK",
+   "tier": 2,
+   "matched_cpv": [
+    "18440000"
+   ],
+   "matched_keywords": [],
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
    "still_listed": true
   }
  ]
